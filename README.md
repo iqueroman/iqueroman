@@ -2,6 +2,7 @@
 
 I'm an **AI Engineer & Automation Architect** passionate about building production-ready AI solutions. With a unique background combining deep technical expertise in AI/ML with proven experience as a CMO and Growth Product Manager, I bring a holistic approach to technology and business challenges.
 
+- 📰 **Published AI & Economy article in Forbes**, reposted by Microsoft
 - 🤖 **Current Focus**: Building advanced RAG pipelines, multi-agent systems, and AI automation infrastructure
 - 🌍 **Location**: Porto Alegre, Brazil
 
@@ -60,13 +61,6 @@ I'm an **AI Engineer & Automation Architect** passionate about building producti
 
 </details>
 
-## 🏆 Achievements & Recognition
-
-- 📰 **Published AI & Economy article in Forbes**, reposted by Microsoft
-- 🎖️ **Featured in major Brazilian media**: Zero Hora, Jornal do Comércio, O Sul
-- 🏅 **Reforge Growth Program** - One of the first Brazilians accepted (2022)
-- 💡 **Created endowment fund** for EA UFRGS Alumni - scaled to multi-million BRL fund
-- 🚀 **Junior Enterprise of the Year** (2017)
 
 ## 📊 GitHub Stats
 
