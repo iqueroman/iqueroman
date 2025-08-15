@@ -1,6 +1,6 @@
 ## Hi there, I'm Henrique Roman! 👋
 
-I'm an **AI Engineer & Automation Architect** passionate about building production-ready AI solutions. With a unique background combining deep technical expertise in AI/ML with proven experience as a CMO and Growth Product Manager, I bring a holistic approach to technology and business challenges.
+I'm an **AI Engineer & Automation Architect** passionate about building production-ready AI solutions. With a unique background combining deep technical expertise in AI/ML with proven experience as a CMO, GTM Engineer and Growth Product Manager, I bring a holistic approach to technology and business challenges.
 
 - 📰 **Published AI & Economy article in Forbes**, reposted by Microsoft
 - 🤖 **Current Focus**: Building advanced RAG pipelines, multi-agent systems, and AI automation infrastructure
